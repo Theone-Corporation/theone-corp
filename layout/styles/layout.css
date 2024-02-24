@@ -111,9 +111,9 @@ File: Layout CSS
 
 .quicklinks nav{padding:30px 0; text-transform:uppercase;}
 .quicklinks ul{}
-.quicklinks ul li{display:inline-block; margin-right:3px;}
+.quicklinks ul li{display:inline-block; margin-right:4px;}
 .quicklinks ul li::after{margin-left:4px; content:"|";}
-.quicklinks ul li:last-child::after{margin-left:0; content:"";}
+.quicklinks ul li:last-child::after{margin-left:4; content:"";}
 
 
 /* Copyright
