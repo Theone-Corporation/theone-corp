@@ -113,7 +113,7 @@ File: Layout CSS
 .quicklinks ul{}
 .quicklinks ul li{display:inline-block; margin-right:4px;}
 .quicklinks ul li::after{margin-left:4px; content:"|";}
-.quicklinks ul li:last-child::after{margin-left:4; content:"";}
+.quicklinks ul li:last-child::after{margin-left:0; content:"";}
 
 
 /* Copyright
